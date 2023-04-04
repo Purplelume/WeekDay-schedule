@@ -13,4 +13,4 @@ This project is a week day schedule, to better organize your tasks according to 
 ![screenshot of index.html](./assets/images/cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website]()
+[Link to the deployed website](https://purplelume.github.io/WeekDay-schedule/)
