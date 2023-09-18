@@ -1,16 +1,27 @@
-# WeekDay-schedule
+# WeekDay Schedule
 
 ## Description
 
-This project is a week day schedule, to better organize your tasks according to the current day and time.
+The WeekDay Schedule project is a practical web application designed to help you organize your tasks efficiently based on the current day and time.
 
-### Actions done
-* Classes added according to current hour
-* CSS was reorganized to follow a logical structure
-* Input saved on local storage and will be presented on the page at refresh
-* Current date disply on top page
+### Key Features
 
-![screenshot of index.html](./assets/images/cattura.PNG)
+Here are the key features and actions taken to enhance this project:
 
-### Link of deployed application
-[Link to the deployed website](https://purplelume.github.io/WeekDay-schedule/)
+1. **Dynamic Class Integration**: Tasks are color-coded based on the current hour, making it easy to identify past, present, and future events.
+
+2. **Logical CSS Structure**: The CSS code has been thoughtfully organized to ensure a logical and structured approach to styling the schedule for improved readability.
+
+3. **Local Storage**: Inputted tasks are saved to local storage, ensuring that your schedule persists even when you refresh the page.
+
+4. **Current Date Display**: The current date is prominently displayed at the top of the page for quick reference.
+
+![Screenshot of WeekDay Schedule](./assets/images/cattura.PNG)
+
+### Try it Out!
+
+To better manage your daily tasks and maintain an organized schedule, visit the deployed website:
+
+[**WeekDay Schedule Website**](https://purplelume.github.io/WeekDay-schedule/)
+
+Feel free to add and manage your tasks effectively!
